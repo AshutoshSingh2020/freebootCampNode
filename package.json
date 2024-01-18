@@ -1,0 +1,24 @@
+{
+	"author": "Ashutosh Singh",
+	"description":"PDF (Portable Document Format) tools are software applications or online services that are designed to work with PDF files. PDF is a widely used file format for documents because it preserves the formatting, layout, and security of the original content. PDF tools provide various functionalities for creating, editing, converting, securing, and manipulating PDF documents.",
+	"keywords": ["PDF Editor","PDF Viewer","PDF Converter","PDF Creator","PDF Reade","PDF Software","PDF Compression"],
+	"license": "MIT",
+	"version": "1.1.0",
+	"name": "fcc-learn-npm-package-json",
+	"dependencies": {
+		"express": "^4.14.0",
+		"@freecodecamp/example":"1.1.0",
+	 	"@freecodecamp/example1":"1.2.13",
+	 	"@freecodecamp/example12":"~1.2.13",
+	 	"@freecodecamp/example122":"^1.2.13"
+
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
+	}
+}
